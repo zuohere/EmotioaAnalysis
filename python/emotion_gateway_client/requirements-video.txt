@@ -1,0 +1,6 @@
+# Base
+-r requirements-base.txt
+
+# Optional: camera capture + H.264 encode
+opencv-python>=4.8
+av>=10.0

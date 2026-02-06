@@ -1,0 +1,5 @@
+# Base
+-r requirements-base.txt
+
+# Optional: microphone capture
+pyaudio>=0.2.13
